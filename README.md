@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Top-Rated | Senior Full-Stack| Software Developer | 7+ years
-$100.00/hr
+$49.00/hr
 
 ✅ My Extensive Experience and solid Skills
 - React/Redux, Vue/Vuex, Angular, Typescript, Javascript, CSS3, HTML5, SCSS/SASS, Bootstrap UI, Metronic-UI, Material-UI, Semantic-UI, AntDesign
