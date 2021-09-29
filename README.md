@@ -19,7 +19,7 @@ Senior Full-Stack| Web Developer | 7+ years
 
 ✅ My Extensive Experience and solid Skills
 - React/Redux, Vue/Vuex, Angular, Typescript, Javascript, CSS3, HTML5, SCSS/SASS, Bootstrap UI, Metronic-UI, Material-UI, Semantic-UI, AntDesign
-- Ruby on Rails, Django/Python, Node.js/Express, PHP(Laravel, CI)
+- Asp.Net, Django/Python, Node.js/Express, PHP(Laravel, CI)
 - MySQL, Oracel, MongoDB, PostgreSQL, Azure SQL, Firebase
 - Devops, Azure, AWS (EC2, S3, RDS, AWS Elastic Beanstalk, LAMDA, SES), Git, cPanel, Plesk, Bluehost, DigitalOcean, Nginx, Firebug, Zendesk, Docker
 - ActiveCompaign, Hubspot, ZOHO CRM, NetSuite CRM...
