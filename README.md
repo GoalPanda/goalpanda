@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Senior Full-Stack| Web Developer | 7+ years
+Senior Full-Stack| Web & Blockchain Engineer | 7+ years
 
 ✅ My Extensive Experience and solid Skills
+- Blockchain development, Smartcontracts, Solidity, NFT, Solana
 - React/Redux, Vue/Vuex, Angular, Typescript, Javascript, CSS3, HTML5, SCSS/SASS, Bootstrap UI, Metronic-UI, Material-UI, Semantic-UI, AntDesign
 - Asp.Net, Django/Python, Node.js/Express, PHP(Laravel, CI)
 - MySQL, Oracel, MongoDB, PostgreSQL, Azure SQL, Firebase
@@ -27,7 +28,7 @@ Senior Full-Stack| Web Developer | 7+ years
 Google API(Maps, Googlesheet, Form), Facebook Graph API, Visa, MasterCard, American Express, Microsoft, Amazon, eBay, Wordpress codex API, AWS, Airhob and Trawex API for booking service, CMS API(webflow, Squarespace, shopify, wix) to integrate with external service, memberstack, Zoom, Twilio, Nexmo, Mailchimp, Squareup, ShopStation, Podio, ActiveCompaign, Hubspot, ZOHO CRM, NetSuite CRM, and etc.
 
 
-✅ His responsibilities
+✅ Responsibilities
 * Following the client's requirement in detail and loyal to software workflow, and providing helpful advice to grow your business
 * Well-Structured, maintainable, Web Application Development, and flexible workflow by machine learning tech, Objective oriented language, and data structure
 * 24/7 Uptime Support
