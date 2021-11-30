@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Senior Full-Stack| Web & Blockchain Engineer | 7+ years
 
 ✅ My Extensive Experience and solid Skills
-- Blockchain development, Smartcontracts, Solidity, NFT, Solana
+- Blockchain development, Smartcontracts, Solidity, NFT, Solana, Web3
 - React/Redux, Vue/Vuex, Angular, Typescript, Javascript, CSS3, HTML5, SCSS/SASS, Bootstrap UI, Metronic-UI, Material-UI, Semantic-UI, AntDesign
 - Asp.Net, Django/Python, Node.js/Express, PHP(Laravel, CI)
 - MySQL, Oracel, MongoDB, PostgreSQL, Azure SQL, Firebase
