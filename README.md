@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Senior Full-Stack| Web & Blockchain Engineer | 7+ years
+Senior Full-Stack| Web & Blockchain Engineer | 8+ years
 
 ✅ My Extensive Experience and solid Skills
 - Blockchain development, Smartcontracts, Solidity, NFT, Solana, Web3
