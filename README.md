@@ -29,10 +29,10 @@ Google API(Maps, Googlesheet, Form), Facebook Graph API, Visa, MasterCard, Ameri
 
 
 ✅ Responsibilities
-●	Project Managing, Team Lead, Develop full project from wireframe with high-quality code.
-●	Well-Structured and maintainable application development based on flexible workflow.
-●	24/7 Support with perfect communication and flexible on any Time-Zone.
-●	Creativity Idea Suggestion.
-●	Always keep product thinking with responsibility.
-●	Passionate Self-Studying, Fast Learner.
+-	Project Managing, Team Lead, Develop full project from wireframe with high-quality code.
+-	Well-Structured and maintainable application development based on flexible workflow.
+-	24/7 Support with perfect communication and flexible on any Time-Zone.
+-	Creativity Idea Suggestion.
+-	Always keep product thinking with responsibility.
+-	Passionate Self-Studying, Fast Learner.
 
