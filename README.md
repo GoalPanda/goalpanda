@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Senior Full-Stack| Web & Blockchain Engineer | 8+ years
+Senior Full-Stack| Web & Blockchain Engineer | 10+ years
 
 ✅ My Extensive Experience and solid Skills
 - Blockchain development, Smartcontracts, Solidity, NFT, Solana, Web3
@@ -29,10 +29,10 @@ Google API(Maps, Googlesheet, Form), Facebook Graph API, Visa, MasterCard, Ameri
 
 
 ✅ Responsibilities
-* Following the client's requirement in detail and loyal to software workflow, and providing helpful advice to grow your business
-* Well-Structured, maintainable, Web Application Development, and flexible workflow by machine learning tech, Objective oriented language, and data structure
-* 24/7 Uptime Support
-* On-Time, On-Target, On-Budget Delivery of High-Quality Product satisfied to a client's requirement
-* Unparalleled attention to High-Quality, User-friendly interface, and flexible workflow
-* Strong cooperative spirit with partners in the Dev Team
-* Comprehensive communication
+●	Project Managing, Team Lead, Develop full project from wireframe with high-quality code.
+●	Well-Structured and maintainable application development based on flexible workflow.
+●	24/7 Support with perfect communication and flexible on any Time-Zone.
+●	Creativity Idea Suggestion.
+●	Always keep product thinking with responsibility.
+●	Passionate Self-Studying, Fast Learner.
+
