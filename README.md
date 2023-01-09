@@ -19,13 +19,13 @@ Senior Full-Stack| Web & Blockchain Engineer | 10+ years
 
 ✅ My Extensive Experience and solid Skills
 - Blockchain development, Smartcontracts, Solidity, NFT, Solana, Web3
-- React/Redux, Vue/Vuex, Angular, Typescript, Javascript, CSS3, HTML5, SCSS/SASS, Bootstrap UI, Metronic-UI, Material-UI, Semantic-UI, AntDesign
-- Asp.Net, Django/Python, Node.js/Express, PHP(Laravel, CI)
-- MySQL, Oracel, MongoDB, PostgreSQL, Azure SQL, Firebase
-- Devops, Azure, AWS (EC2, S3, RDS, AWS Elastic Beanstalk, LAMDA, SES), Git, cPanel, Plesk, Bluehost, DigitalOcean, Nginx, Firebug, Zendesk, Docker
-- ActiveCompaign, Hubspot, ZOHO CRM, NetSuite CRM...
-- API integration
-Google API(Maps, Googlesheet, Form), Facebook Graph API, Visa, MasterCard, American Express, Microsoft, Amazon, eBay, Wordpress codex API, AWS, Airhob and Trawex API for booking service, CMS API(webflow, Squarespace, shopify, wix) to integrate with external service, memberstack, Zoom, Twilio, Nexmo, Mailchimp, Squareup, ShopStation, Podio, ActiveCompaign, Hubspot, ZOHO CRM, NetSuite CRM, and etc.
+- Language: JavaScript/ TypeScript(ECMA6+), PHP, Java, C/C++, C#, Python, ROR, css/scss, html5
+- Frontend: React(redux, mobx, hook, context..), Vue(Vuex), Material/Semantic/Bootstrap-UI, Angular, Next.js, Nuxt.js, Elixir, WebGL
+- Backend: Node.js, Express.js, Asp.Net(Core, Web API), Laravel(MVC), Django, ROR, Java, Serverless, AWS, GraphQL
+- DB: MongoDb, PostgreSQL, MySql, FireBase(firestore, realtime), Oracel, Badger
+- DevOps: IIS, AWS(EC2, S3, Lambda), Apache, Nginx, Docker, cPanel, BlueHost, DigitalOcean, Azure
+- DevToolKit: Git/BitBucket, Jira, Trello, Asana, Figma, Sketch, PS, ..
+
 
 
 ✅ Responsibilities
