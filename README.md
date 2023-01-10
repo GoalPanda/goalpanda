@@ -19,7 +19,7 @@ Senior Full-Stack| Web & Blockchain Engineer | 10+ years
 
 ✅ My Extensive Experience and solid Skills
 - Blockchain development, Smartcontracts, Solidity, NFT, Solana, Web3
-- Language: JavaScript/ TypeScript(ECMA6+), PHP, Java, C/C++, C#, Python, ROR, css/scss, html5
+- Language: JavaScript/ TypeScript(ECMA6+), PHP, Java, C/C++, C#, Python, Ruby, Go, Pheonix, css/scss, html5
 - Frontend: React(redux, mobx, hook, context..), Vue(Vuex), Material/Semantic/Bootstrap-UI, Angular, Next.js, Nuxt.js, Elixir, WebGL
 - Backend: Node.js, Express.js, Asp.Net(Core, Web API), Laravel(MVC), Django, ROR, Java, Serverless, AWS, GraphQL
 - DB: MongoDb, PostgreSQL, MySql, FireBase(firestore, realtime), Oracel, Badger
