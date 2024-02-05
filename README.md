@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Senior Full-Stack| Web & Blockchain Engineer | 10+ years
+Senior Full-Stack Engineer
 
 ✅ My Extensive Experience and solid Skills
-- Blockchain development, Smartcontracts, Solidity, NFT, Solana, Web3
 - Language: JavaScript/ TypeScript(ECMA6+), PHP, Java, C/C++, C#, Python, Ruby, Go, Pheonix, css/scss, html5
 - Frontend: React(redux, mobx, hook, context..), Vue(Vuex), Material/Semantic/Bootstrap-UI, Angular, Next.js, Nuxt.js, Elixir, WebGL
 - Backend: Node.js, Express.js, Asp.Net(Core, Web API), Laravel(MVC), Django, ROR, Java, Serverless, AWS, GraphQL
@@ -26,13 +25,4 @@ Senior Full-Stack| Web & Blockchain Engineer | 10+ years
 - DevOps: IIS, AWS(EC2, S3, Lambda), Apache, Nginx, Docker, cPanel, BlueHost, DigitalOcean, Azure
 - DevToolKit: Git/BitBucket, Jira, Trello, Asana, Figma, Sketch, PS, ..
 
-
-
-✅ Responsibilities
--	Project Managing, Team Lead, Develop full project from wireframe with high-quality code.
--	Well-Structured and maintainable application development based on flexible workflow.
--	24/7 Support with perfect communication and flexible on any Time-Zone.
--	Creativity Idea Suggestion.
--	Always keep product thinking with responsibility.
--	Passionate Self-Studying, Fast Learner.
 
